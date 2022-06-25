@@ -2,7 +2,7 @@
 ### ANPR is one of the most accurate applications of computer vision systems. Systems for automated number plate recognition use optical character recognition (OCR) to read vehicle registration plates. Cameras capture high-speed images of number plates, and software for image processing is used to detect characters, verify the sequence of those characters, and convert the number plate image to text.
 
 ### Firstly, the ANPR camera captures images that contain a license plate (video stream or photo).
-###Then, the plate is detected using machine learning and computer vision processes (Object Detection)
+### Then, the plate is detected using machine learning and computer vision processes (Object Detection)
 ### Finally, OCR software is applied to the detected plate area to return the license plate number in text format. The converted number is usually stored in a database for integration with other IT systems.
 
 ## Use Case
