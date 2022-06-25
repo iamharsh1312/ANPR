@@ -5,6 +5,9 @@
 ### Then, the plate is detected using machine learning and computer vision processes (Object Detection)
 ### Finally, OCR software is applied to the detected plate area to return the license plate number in text format. The converted number is usually stored in a database for integration with other IT systems.
 
+![image](https://user-images.githubusercontent.com/65723273/175773715-a92322f0-76e5-4f72-b4de-fb1194d1d38f.png)
+
+
 ## Use Case
 ### Law enforcement. Police forces use ANPR for law enforcement purposes, including to check if a vehicle is registered or to identify vehicles related to traffic violations. The ability to detect and recognize number plates in real-time allows authorities to identify vehicles and track their location.
 
